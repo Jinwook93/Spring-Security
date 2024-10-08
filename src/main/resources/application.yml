@@ -31,20 +31,20 @@ spring:
       client:
         registration:
           google:
-            client-id: 478272764461-7n1qkap1fleelftbojbdg3tacs5lefcb.apps.googleusercontent.com
-            client-secret: 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
+            client-id: 보안상 가림
+            client-secret: 보안상 가림
             scope:
               - email
               - profile
           facebook:
-            client-id: 1965627463896651
-            client-secret: 3f16a792bc9cb6f3eb6da392a13a4884
+            client-id: 보안상 가림
+            client-secret: 보안상 가림
             scope:
               - email
               - public_profile
           naver:
-            client-id: Zyxu74cTmGCCp02Xrwq3
-            client-secret: KhqI1rkuy9
+            client-id: 보안상 가림
+            client-secret: 보안상 가림
             scope:
               - email
               - name
