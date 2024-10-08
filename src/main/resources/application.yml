@@ -31,8 +31,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 보안상 가림
-            client-secret: 보안상 가림
+            client-id: 보안상 가림!!!!!!!!!
+            client-secret: 보안상 가림!!!!!!!!!
             scope:
               - email
               - profile
